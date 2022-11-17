@@ -43,16 +43,16 @@
 <p>
 <h3>Database</h3>
 <p>
-
-      <a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
-      <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/> 
+  <a href="https://learn.microsoft.com/en-us/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="Microsoft Access"/> 
   </a>
-  </a> 
-      <a href="https://www.w3schools.com/php/php_mysql_intro.asp" target="_blank"> 
+<a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"> 
+      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="sql"/> 
+  </a>
+<a href="https://www.w3schools.com/php/php_mysql_intro.asp" target="_blank"> 
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP MySQL Database"/> 
   </a>
 </p>
-<p>
 
 <h3>Version Control & CI/CD</h3>
 <p>
