@@ -60,7 +60,7 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  <a href="https://github.com/Osoro254Alex" target="_blank">
+  <a href="https://github.com/Lucash2022" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
 </p>
@@ -103,8 +103,8 @@
 
 # Github's Status
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Osoro254Alex&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Osoro254Alex" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucash2022&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt=Lucash2022" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Osoro254Alex&theme=tokyonight&show_icons=true&locale=en" alt="Osoro254Alex" /></p>
+<p>&nbsp;<img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucash2022&theme=highcontrast&date_format=j%8M%5B%20Y%5D)](https://git.io/streak-stats)" alt="Lucash2022" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Osoro254Alex&theme=tokyonight" alt="Osoro254Alex" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Lucash2022&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" alt="Lucash2022" /></p>
