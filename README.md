@@ -104,7 +104,3 @@
 # Github's Status
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucash2022&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt=Lucash2022" /></p>
-
-<p>&nbsp;<img align="center" src="(https://github-readme-streak-stats.herokuapp.com?user=Lucash2022&theme=highcontrast&date_format=j%8M%5B%20Y%5D)](https://git.io/streak-stats)" alt="Lucash2022" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Lucash2022&theme=highcontrast&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)" alt="Lucash2022" /></p>
