@@ -32,8 +32,8 @@
     <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="bootstrap"/>
   </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
+  <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> 
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
   </a> 
   <a href="https://webpack.js.org" target="_blank">
     <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
@@ -48,22 +48,12 @@
       <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white" alt="sql"/> 
   </a>
   </a> 
-      <a href="https://www.w3schools.com/html/html_intro.asp" target="_blank"> 
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/> 
+      <a href="https://www.w3schools.com/php/php_mysql_intro.asp" target="_blank"> 
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP MySQL Database"/> 
   </a>
 </p>
 <p>
-<h3>Cloud & Hosting:</h3>
-<p>
-  <a href="https://netlify.com/" target="_blank">
-    <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-</p>
-<p>
+
 <h3>Version Control & CI/CD</h3>
 <p>
   <a href="https://git-scm.com/" target="_blank">
@@ -103,7 +93,7 @@
 <h3>Reach me</h3>
 
 <p>
-  <a href="mailto:alexogeto54@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+  <a href="mailto:Lderkana21x@gmail.com@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
 </p>
