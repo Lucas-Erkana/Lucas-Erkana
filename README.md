@@ -2,12 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Full-stack+Software+Developer;)](https://git.io/typing-svg)
 
-## Microverse Badges:
-
-<p align="start">
-<img width="150px" alt="HTML/CSS Badge" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40244618"/>
-</p>
-https://www.credential.net/09e15443-ac5b-4e77-9ad7-275187eec3fd#main-content
 <br><br>
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
@@ -89,9 +83,6 @@ https://www.credential.net/09e15443-ac5b-4e77-9ad7-275187eec3fd#main-content
   <a href="https://www.microsoft.com/fr-fr/windows" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/>
   </a>
-  <!-- <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a> -->
 </p>
 
 ----
@@ -100,10 +91,10 @@ https://www.credential.net/09e15443-ac5b-4e77-9ad7-275187eec3fd#main-content
 
 <div style="margin-top:10px">
   <div>
-    <a  href="https://www.linkedin.com/in/alexogeto/" target="_blank">
+    <a  href="https://www.linkedin.com/in/lucas-erkana-b30a0b3b/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    <a href="https://twitter.com/ALEX14809153" target="_blank">
+    <a href="https://twitter.com/@Lucas_David_22" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
   </div>
