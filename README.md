@@ -1,8 +1,13 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas Erkana</h1>
+<div >
+  <img align="center" src="./readme.jpg" alt="banner that says Progress Ezeamaka - Software Developer">
+</div>
 <h3 align="center">A passionate frontend developer from Namibia</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Full-stack+Software+Developer;)](https://git.io/typing-svg)
-<br><br>
+<br>
+
+<br>
 <img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucash2022&label=Profile%20views&color=0e75b6&style=flat" alt="lucash2022" /> </p>
