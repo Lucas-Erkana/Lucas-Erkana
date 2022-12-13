@@ -2,7 +2,6 @@
 <div >
   <img align="center" src="./readme.jpg" alt="banner that says Progress Ezeamaka - Software Developer">
 </div>
-<h3 align="center">A passionate frontend developer from Namibia</h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Full-stack+Software+Developer;)](https://git.io/typing-svg)
 <br>
