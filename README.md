@@ -25,6 +25,10 @@
 - 📫 Contact me by [Linkedin](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
 - 📫 How to reach me **Lderkana21x@gmail.com**
 
+<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+  
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://ih1.redbubble.net/image.404020079.1876/st,small,507x507-pad,600x600,f8f8f8.u7.jpg" alt="jest" width="40" height="40"/>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lucas_david_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucas_david_22" height="30" width="40" /></a>
