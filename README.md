@@ -15,10 +15,14 @@
 
 <p align="left"> <a href="https://twitter.com/lucas_david_22" target="blank"><img src="https://img.shields.io/twitter/follow/lucas_david_22?logo=twitter&style=for-the-badge" alt="lucas_david_22" /></a> </p>
 
-- 🔭 I’m currently working on [Portfolio website](https://github.com/Lucash2022/LucasErkanaPortfolio_Website/tree/popup)
+- 🔭 I’m currently working on [Todo List](https://github.com/Lucash2022/LucasErkanaPortfolio_Website/tree/popup)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Lucash2022?tab=repositories](https://github.com/Lucash2022?tab=repositories)
-
+- 👀 I’m interested in Software development
+- 🌱 I’m Full-Stack Developer
+- 💞️ I’m looking to collaborate on different projects
+- 📫 Contact me by [Email](lederkana21x@gmail.com)
+- 📫 Contact me by [Linkedin](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
 - 📫 How to reach me **Lderkana21x@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
