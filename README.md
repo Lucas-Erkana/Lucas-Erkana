@@ -15,8 +15,8 @@
 
 <p align="left"> <a href="https://twitter.com/lucas_david_22" target="blank"><img src="https://img.shields.io/twitter/follow/lucas_david_22?logo=twitter&style=for-the-badge" alt="lucas_david_22" /></a> </p>
 
-- 🔭 I’m currently working on [To_do List](https://github.com/Lucash2022/To_Do_List)
-- 🔭 Live demo [To_do_List](Lucash2022.github.io/To_Do_List/dist/)
+- 🔭 I’m currently working on [TV-Hub](https://github.com/Lucash2022/tv-hub-app)
+- 🔭 Live demo [TV hub](https://lucash2022.github.io/tv-hub-app/dist/)
 - 👨‍💻 All of my projects are available at [https://github.com/Lucash2022?tab=repositories](https://github.com/Lucash2022?tab=repositories)
 - 👀 I’m interested in Software development
 - 🌱 I’m Full-Stack Developer
