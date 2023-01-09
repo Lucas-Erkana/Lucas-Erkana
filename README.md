@@ -9,8 +9,6 @@
 <br>
 
 <br>
-<img align = 'right' alt = 'coding' width='300' src='https://github.com/Abhishek20182/Abhishek20182/blob/main/coding.gif'>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucash2022&label=Profile%20views&color=0e75b6&style=flat" alt="lucash2022" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucash2022" alt="lucash2022" /></a> </p>
