@@ -1,6 +1,6 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas Erkana</h1>
 <div >
-  <img align="center" src="./GitProfile.gif" alt="Software Developer">
+  <img align="center" src="./GitProfile2.gif" alt="Software Developer">
   
 </div>
 
