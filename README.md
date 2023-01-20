@@ -31,8 +31,8 @@
 <a href="https://linkedin.com/in/lucas erkana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas erkana" height="30" width="40" /></a>
 <a href="https://fb.com/lucash.toni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucash.toni" height="30" width="40" /></a>
 <a href="https://instagram.com/lu_cash_the_don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lu_cash_the_don" height="30" width="40" /></a>
-<a href="https://angel.co/u/lucas-erkana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg" alt="lucas-erkana" height="30" width="40" /></a>
-<a href="https://medium.com/@lderkana21x" target="blank"><img align="center" src="https://raw.githubusercontent.com/remarkablemark/assets/267408156e71fd7a00fd16e47035cf02d6ceb366/svgs/medium-logo.svg" alt="lderkana21x" height="30" width="40" /></a>
+<a href="https://angel.co/u/lucas-erkana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg" alt="lucas-erkana" height="30" width="60" /></a>
+<a href="https://medium.com/@lderkana21x" target="blank"><img align="center" src="https://raw.githubusercontent.com/remarkablemark/assets/267408156e71fd7a00fd16e47035cf02d6ceb366/svgs/medium-logo.svg" alt="lderkana21x" height="30" width="80" /></a>
 </p>
 
 
