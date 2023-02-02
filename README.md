@@ -21,7 +21,8 @@
 - 🌱 I’m Full-Stack Developer
 - 💞️ I’m looking to collaborate on different projects
 - 📫 Contact me by [Email](lederkana21x@gmail.com)
-- 📫 Contact me by [Linkedin](https://www.linkedin.com/in/lucas-erkana-b30a0b3b/)
+- 📫 Contact me by [Linkedin](https://www.linkedin.com/in/lucas-erkana/)
+- 📫 Read my blogs on [medium](https://medium.com/@lderkana21x)
 - 📫 How to reach me **Lderkana21x@gmail.com**
 
   
