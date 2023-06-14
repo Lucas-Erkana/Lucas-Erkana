@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://twitter.com/lucas_david_22" target="blank"><img src="https://img.shields.io/twitter/follow/lucas_david_22?logo=twitter&style=for-the-badge" alt="lucas_david_22" /></a> </p>
 
-- 🔭 I’m currently working on [Catalog-Ruby-Group-Capstone](https://github.com/Lucash2022/Catalog-Ruby-Group-Capstone.git)
+- 🔭 I’m currently working on [Blog_App](https://github.com/Lucash2022/Blog_App.git)
 - 🔭 Live demo [Not available](#)
 - 👨‍💻 All of my projects are available at [https://github.com/Lucash2022?tab=repositories](https://github.com/Lucash2022?tab=repositories)
 - 👀 I’m interested in Software development
