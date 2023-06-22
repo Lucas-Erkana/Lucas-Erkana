@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on [Blog_App](https://github.com/Lucash2022/Blog_App.git)
 - 🔭 Live demo [Not available](#)
-- 👨‍💻 All of my projects are available at [https://github.com/Lucash2022?tab=repositories](https://github.com/Lucash2022?tab=repositories)
+- 👨‍💻 All of my projects are available are [here](https://github.com/Lucash2022?tab=repositories)
 - 👀 I’m interested in Software development
 - 🌱 I’m Full-Stack Developer
 - 💞️ I’m looking to collaborate on different projects
