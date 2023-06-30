@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/lucas_david_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucas_david_22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucas erkana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas erkana" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lucas-erkana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas erkana" height="30" width="40" /></a>
 <a href="https://fb.com/lucash.toni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucash.toni" height="30" width="40" /></a>
 <a href="https://instagram.com/lu_cash_the_don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lu_cash_the_don" height="30" width="40" /></a>
 <a href="https://angel.co/u/lucas-erkana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg" alt="lucas-erkana" height="30" width="60" /></a>
