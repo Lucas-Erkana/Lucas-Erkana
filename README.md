@@ -14,8 +14,8 @@
 
 <p align="left"> <a href="https://twitter.com/lucas_david_22" target="blank"><img src="https://img.shields.io/twitter/follow/lucas_david_22?logo=twitter&style=for-the-badge" alt="lucas_david_22" /></a> </p>
 
-- 🔭 I’m currently working on [Blog_App](https://github.com/Lucash2022/Blog_App.git)
-- 🔭 Live demo [Not available](#)
+- 🔭 I’m currently working on [Tasty Bites](https://github.com/Lucash2022/Tasty-Bites.git)
+- 🔭 Live demo [Tasty Bites](https://rails-nlz4.onrender.com/)
 - 👨‍💻 All of my projects are available are [here](https://github.com/Lucash2022?tab=repositories)
 - 👀 I’m interested in Software development
 - 🌱 I’m Full-Stack Developer
