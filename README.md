@@ -3,8 +3,9 @@
   <img align="center" src="./GitProfile2.gif" alt="Software Developer">
   
 </div>
+![lucas](https://github.com/Lucash2022/Lucash2022/assets/41428579/0f224dd2-459c-4cb4-8f8f-077122e48e04)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&height=52&lines=Enrolled+in+Microverse;Front+End+Developer;)](https://git.io/typing-svg)
+
 <br>
 
 <br>
