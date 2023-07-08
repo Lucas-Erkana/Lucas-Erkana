@@ -1,9 +1,9 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas Erkana</h1>
 <div >
-  <img align="center" src="./GitProfile2.gif" alt="Software Developer">
+  <img align="center" src="./lucas.png" alt="Software Developer">
   
 </div>
-![lucas](https://github.com/Lucash2022/Lucash2022/assets/41428579/0f224dd2-459c-4cb4-8f8f-077122e48e04)
+
 
 
 <br>
