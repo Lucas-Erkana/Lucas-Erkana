@@ -8,13 +8,7 @@
 <br>
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas Erkana</h1>
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucash2022&label=Profile%20views&color=0e75b6&style=flat" alt="lucash2022" /> </p>
-<--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lucash2022" alt="lucash2022" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lucas_david_22" target="blank"><img src="https://img.shields.io/twitter/follow/lucas_david_22?logo=twitter&style=for-the-badge" alt="lucas_david_22" /></a> </p>
--->
 - 🔭 I’m currently working on [SpendSmart](https://github.com/Lucash2022/SpendSmart.git)
 - 🔭 Live demo [SpendtSmart](#)
 - 👨‍💻 All of my projects are available are [here](https://github.com/Lucash2022?tab=repositories)
