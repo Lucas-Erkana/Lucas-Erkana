@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working on [SpendSmart](https://github.com/Lucash2022/SpendSmart.git)
-- 🔭 Live demo [SpendtSmart](#)
+- 🔭 Live demo [SpendtSmart](https://spend-smart.onrender.com/)
 - 👨‍💻 All of my projects are available are [here](https://github.com/Lucash2022?tab=repositories)
 - 👀 I’m interested in Software development
 - 🌱 I’m Full-Stack Developer
