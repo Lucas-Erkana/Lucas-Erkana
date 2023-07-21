@@ -9,8 +9,8 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas Erkana</h1>
 
 
-- 🔭 I’m currently working on [SpendSmart](https://github.com/Lucash2022/SpendSmart.git)
-- 🔭 Live demo [SpendtSmart](https://spend-smart.onrender.com/)
+- 🔭 I’m currently working on [BoxFlix-Backend](https://github.com/Lucash2022/BookFlix-Backend) and [BoxFlix-Frontend](https://github.com/Lucash2022/BookFlix-Frontend)
+- 🔭 Live demo [BoxFlix](#)
 - 👨‍💻 All of my projects are available are [here](https://github.com/Lucash2022?tab=repositories)
 - 👀 I’m interested in Software development
 - 🌱 I’m Full-Stack Developer
