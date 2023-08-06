@@ -9,27 +9,21 @@
 <h1 align='center' style = 'margin-top:50px'>𝐇𝐞𝐥𝐥𝐨 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Lucas Erkana</h1>
 
 
-- 🔭 I’m currently working on [BoxFlix-Backend](https://github.com/Lucash2022/BookFlix-Backend) and [BoxFlix-Frontend](https://github.com/Lucash2022/BookFlix-Frontend)
-- 🔭 Live demo [BoxFlix](#)
+- 👨🏻‍💻 I have completed **Full-Stack Software Developement** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
+- 🌱 I’m currently working on side projects and applying to jobs.
 - 👨‍💻 All of my projects are available are [here](https://github.com/Lucash2022?tab=repositories)
-- 👀 I’m interested in Software development
-- 🌱 I’m Full-Stack Developer
-- 💞️ I’m looking to collaborate on different projects
+- 👀 I’m interested in coding, watching movies, and playing video games.
+- ⚡ Fact about me: **I have a Basic Education Teaching Diploma in Mathematics and Computer Science.**
+- 🧔🏻 Pronouns: He/Him.
 - 📫 Contact me by [Email](lederkana21x@gmail.com)
 - 📫 Contact me by [Linkedin](https://www.linkedin.com/in/lucas-erkana/)
 - 📫 Read my blogs on [medium](https://medium.com/@lderkana21x)
-- 📫 How to reach me **Lderkana21x@gmail.com**
+
 
   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lucas_david_22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucas_david_22" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/lucas-erkana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas erkana" height="30" width="40" /></a>
-<a href="https://fb.com/lucash.toni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucash.toni" height="30" width="40" /></a>
-<a href="https://instagram.com/lu_cash_the_don" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lu_cash_the_don" height="30" width="40" /></a>
-<a href="https://angel.co/u/lucas-erkana" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/angel/angel-ar21.svg" alt="lucas-erkana" height="30" width="60" /></a>
-<a href="https://medium.com/@lderkana21x" target="blank"><img align="center" src="https://raw.githubusercontent.com/remarkablemark/assets/267408156e71fd7a00fd16e47035cf02d6ceb366/svgs/medium-logo.svg" alt="lderkana21x" height="30" width="80" /></a>
-</p>
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:lederkana21x@gmail.com">![lederkana21x@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/lucas-erkana/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 
