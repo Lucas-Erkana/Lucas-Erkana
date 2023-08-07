@@ -25,13 +25,13 @@
 
 <div align="center" style="margin-top:10px">
   <div>
-    <a  href="https://www.linkedin.com/in/kashifsaleemghuman/" target="_blank">
+    <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
-    <a href="https://twitter.com/Kashif14Saleem" target="_blank">
+    <a href="https://twitter.com/Lucas_David_22" target="_blank">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
-    <a href="https://portfolio-kashif-saleem.vercel.app/" target="_blank">
+    <a href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logoColor=white" alt="portfolio"/>
 </a>
   </div>
@@ -45,8 +45,7 @@
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70557231" alt="Credential 4" width="150"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/72809591" alt="Credential 5" width="150"/>
     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/74008916" alt="Credential 6" width="150"/>
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75355995" alt="Credential 6" width="150"/>
-  
+<!--     <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/75355995" alt="Credential 6" width="150"/> -->
 </p>
 <br/>
 
@@ -55,9 +54,7 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
- <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucash2022&show_icons=true&locale=en&layout=compact" alt="lucash2022" /></p>
 
