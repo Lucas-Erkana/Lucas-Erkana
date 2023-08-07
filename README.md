@@ -11,7 +11,7 @@
 
 - 👨🏻‍💻 I have completed **Full-Stack Software Developement** at [Microverse.](https://www.microverse.org/?grsf=prantosh-ck1wny)
 - 🌱 I’m currently working on side projects and applying to jobs.
-- 👨‍💻 All of my projects are available are [here](https://github.com/Lucash2022?tab=repositories)
+- 👨‍💻 All of my projects are available are [here](https://github.com/Lucas-Erkana?tab=repositories)
 - 👀 I’m interested in coding, watching movies, and playing video games.
 - ⚡ Fact about me: **I have a Basic Education Teaching Diploma in Mathematics and Computer Science.**
 - 🧔🏻 Pronouns: He/Him.
@@ -56,9 +56,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucash2022&show_icons=true&locale=en&layout=compact" alt="lucash2022" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-Erkana&show_icons=true&locale=en&layout=compact" alt="Lucas-Erkana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucash2022&show_icons=true&locale=en" alt="lucash2022" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucas-Erkana&show_icons=true&locale=en" alt="Lucas-Erkana" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucash2022&" alt="lucash2022" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas-Erkana&" alt="Lucas-Erkana" /></p>
 
