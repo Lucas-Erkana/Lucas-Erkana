@@ -25,6 +25,8 @@
 
 <div align="center" style="margin-top:10px">
   <div>
+    <a href="mailto:lderkana21x@gmail.com">![lderkana21x@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+    
     <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
     </a>
