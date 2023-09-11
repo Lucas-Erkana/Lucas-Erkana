@@ -23,29 +23,22 @@
   
 <h3 align="center">Connect with me</h3>
 
-
+  <a  href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
+ <img src='./4.gif' alt="portfolio">
+  </a>
   <a href="mailto:lderkana21x@gmail.com">
- ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/2aa3296a-56a6-49cb-a0c7-9576f1e4be8b)
+    <img src='./2.gif' alt="gmail">
 
   </a>
-  <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
-![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/fc830570-04c2-4e11-b0c6-8ece2be9687c)
-
+  
+  <a href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
+ <img src='./3.gif' alt="linkedin">
   </a>
-    <a href="https://twitter.com/Lucas_David_22" target="_blank">
-    
-      ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/8eb6d08a-37a6-440c-897f-0b92a8c3c485)
 
-      </a>
-
-          <a href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
-          
-              </a>
-            <a href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
-          ![4](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/d786659f-9249-42fa-a86f-36c5c10cbb57)
-
-              </a>
-
+  <a  href="https://twitter.com/Lucas_David_22" target="_blank">
+ <img src="./1.gif" alt="twitter">
+  </a>
+  
 
 
 
