@@ -25,8 +25,7 @@
 
 <div align="center" style="margin-top:10px">
   <div>
-    <a href="mailto:lderkana21x@gmail.com" target="_blank">
-    </a>
+
     
     <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
@@ -35,8 +34,8 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
     </a>
     <a href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logoColor=white" alt="portfolio"/>
-</a>
+        <img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logoColor=white" alt="portfolio"/>
+    </a>
   </div>
   </div>
 
