@@ -24,25 +24,29 @@
 <h3 align="center">Connect with me</h3>
 
 <div align="center" style="margin-top:10px"> 
-![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/73a5c3aa-4c93-4628-965f-ae24252b240f)
+  <a href="mailto:lderkana21x@gmail.com">
+ ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/2aa3296a-56a6-49cb-a0c7-9576f1e4be8b)
 
-![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/7a7ead3b-132d-4fa8-86b9-10ebe80d4a84)
+  </a>
+  <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
+![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/fc830570-04c2-4e11-b0c6-8ece2be9687c)
 
-</div>
-<!--   <div>
-
-    
-    <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
-    </a>
+  </a>
     <a href="https://twitter.com/Lucas_David_22" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/>
-    </a>
-    <a href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logoColor=white" alt="portfolio"/>
-    </a>
-  </div> -->
-  
+    
+      ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/8eb6d08a-37a6-440c-897f-0b92a8c3c485)
+
+      </a>
+
+          <a href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
+          
+              </a>
+            <a href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
+          ![4](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/d786659f-9249-42fa-a86f-36c5c10cbb57)
+
+              </a>
+</div>
+
 
 
 
