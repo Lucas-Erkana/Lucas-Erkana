@@ -25,9 +25,7 @@
 
 <div align="center" style="margin-top:10px">
   <div>
-    <a href="mailto:lderkana21x@gmail.com">
-      ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/94246203-8d81-4d39-8f7d-3123b7f13d93)
-
+    <a href="mailto:lderkana21x@gmail.com" target="_blank">
     </a>
     
     <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
