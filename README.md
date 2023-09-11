@@ -23,7 +23,7 @@
   
 <h3 align="center">Connect with me</h3>
 
-<div align="center" style="margin-top:10px"> </div>
+
 <!--   <div>
 
     
@@ -37,6 +37,7 @@
         <img src="https://img.shields.io/badge/Portfolio-0A66C2.svg?style=for-the-badge&logoColor=white" alt="portfolio"/>
     </a>
   </div> -->
+  
 ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/73a5c3aa-4c93-4628-965f-ae24252b240f)
 
 ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/7a7ead3b-132d-4fa8-86b9-10ebe80d4a84)
