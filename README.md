@@ -22,8 +22,9 @@
 
   
 <h3 align="center">Connect with me</h3>
-
-  <a  href="https://lucaserkana.vercel.app/" target="_blank">
+<div align="center" style="margin-top:10px">
+<div>
+    <a  href="https://lucaserkana.vercel.app/" target="_blank">
  <img src='./4.gif' alt="portfolio">
   </a>
   <a href="mailto:lderkana21x@gmail.com">
@@ -38,6 +39,9 @@
   <a  href="https://twitter.com/Lucas_David_22" target="_blank">
  <img src="./1.gif" alt="twitter">
   </a>
+</div>
+</div>
+
   
 
 
