@@ -38,8 +38,8 @@
     </a>
   </div> -->
   <a href="mailto:pbiswas1007@gmail.com">![pbiswas1007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/7a7ead3b-132d-4fa8-86b9-10ebe80d4a84)
 
-<a href="https://www.linkedin.com/in/prantosh/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 # Credentials:
