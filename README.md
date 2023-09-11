@@ -23,7 +23,7 @@
   
 <h3 align="center">Connect with me</h3>
 
-  <a  href="https://lucas-erkana-portfolio.vercel.app/" target="_blank">
+  <a  href="https://lucaserkana.vercel.app/" target="_blank">
  <img src='./4.gif' alt="portfolio">
   </a>
   <a href="mailto:lderkana21x@gmail.com">
