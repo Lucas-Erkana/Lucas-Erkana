@@ -25,7 +25,10 @@
 
 <div align="center" style="margin-top:10px">
   <div>
-    <a href="mailto:lderkana21x@gmail.com">![lderkana21x@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+    <a href="mailto:lderkana21x@gmail.com">
+      ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/94246203-8d81-4d39-8f7d-3123b7f13d93)
+
+    </a>
     
     <a  href="https://www.linkedin.com/in/lucas-erkana/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="lindedIn"/>
