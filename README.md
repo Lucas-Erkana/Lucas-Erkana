@@ -23,7 +23,7 @@
   
 <h3 align="center">Connect with me</h3>
 
-<div align="center" style="margin-top:10px"> 
+
   <a href="mailto:lderkana21x@gmail.com">
  ![image](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/2aa3296a-56a6-49cb-a0c7-9576f1e4be8b)
 
@@ -45,7 +45,7 @@
           ![4](https://github.com/Lucas-Erkana/Lucas-Erkana/assets/41428579/d786659f-9249-42fa-a86f-36c5c10cbb57)
 
               </a>
-</div>
+
 
 
 
